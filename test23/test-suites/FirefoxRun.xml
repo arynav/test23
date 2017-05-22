@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<test name="Firefox Test">
+		<groups>
+			<run>
+				<exclude name="chrome-setup"></exclude>
+				<exclude name="ie-setup"></exclude>
+			</run>
+		</groups>
+		<packages>
+			<package name="com.jfbuilds.jf.*"></package>
+		</packages>
+	</test> 
+</suite> 

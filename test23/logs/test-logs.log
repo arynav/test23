@@ -1,0 +1,613 @@
+2017-05-18 00:35:32 INFO  BasicAutoTest:69 - Setting up Firefox driver.
+2017-05-18 00:37:17 INFO  BasicAutoTest:69 - Setting up Firefox driver.
+2017-05-18 00:39:42 INFO  BasicAutoTest:52 - Setting Chrome driver system property.
+2017-05-18 00:39:42 INFO  BasicAutoTest:54 - Setting up Chrome driver.
+2017-05-18 00:44:51 INFO  BasicAutoTest:52 - Setting Chrome driver system property.
+2017-05-18 00:44:51 INFO  BasicAutoTest:54 - Setting up Chrome driver.
+2017-05-18 00:45:44 INFO  BasicAutoTest:69 - Setting up Firefox driver.
+2017-05-18 01:09:37 INFO  BasicAutoTest:69 - Setting up Firefox driver.
+2017-05-18 12:50:30 INFO  BasicAutoTest:69 - Setting up Firefox driver.
+2017-05-18 12:50:35 INFO  BasicAutoTest:75 - Going to baseURL http://sfbay.craigslist.org
+2017-05-18 12:50:44 INFO  BasicAutoTest:50 - Number of results on first page for qa automation: 45
+2017-05-18 12:50:44 INFO  BasicAutoTest:105 - Closing all driver windows.
+2017-05-18 13:14:00 INFO  BasicAutoTest:69 - Setting up Firefox driver.
+2017-05-18 13:14:04 INFO  BasicAutoTest:75 - Going to baseURL http://store.23andme.com/en-us/
+2017-05-18 13:14:41 INFO  BasicAutoTest:105 - Closing all driver windows.
+2017-05-18 17:47:31 INFO  BasicAutoTest:69 - Setting up Firefox driver.
+2017-05-18 17:47:38 INFO  BasicAutoTest:75 - Going to baseURL http://store.23andme.com/en-us/
+2017-05-18 17:48:14 INFO  BasicAutoTest:105 - Closing all driver windows.
+2017-05-18 17:50:11 INFO  BasicAutoTest:69 - Setting up Firefox driver.
+2017-05-18 17:50:22 INFO  BasicAutoTest:75 - Going to baseURL http://store.23andme.com/en-us/
+2017-05-18 17:50:28 INFO  BasicAutoTest:105 - Closing all driver windows.
+2017-05-18 18:00:07 INFO  BasicAutoTest:69 - Setting up Firefox driver.
+2017-05-18 18:00:13 INFO  BasicAutoTest:75 - Going to baseURL http://store.23andme.com/en-us/
+2017-05-18 18:00:51 INFO  BasicAutoTest:105 - Closing all driver windows.
+2017-05-18 18:01:08 INFO  BasicAutoTest:69 - Setting up Firefox driver.
+2017-05-18 18:01:13 INFO  BasicAutoTest:75 - Going to baseURL http://store.23andme.com/en-us/
+2017-05-18 18:01:49 INFO  BasicAutoTest:105 - Closing all driver windows.
+2017-05-18 18:04:13 INFO  BasicAutoTest:69 - Setting up Firefox driver.
+2017-05-18 18:04:19 INFO  BasicAutoTest:75 - Going to baseURL http://store.23andme.com/en-us/
+2017-05-18 18:04:58 INFO  BasicAutoTest:105 - Closing all driver windows.
+2017-05-18 18:23:10 INFO  BasicAutoTest:69 - Setting up Firefox driver.
+2017-05-18 18:23:16 INFO  BasicAutoTest:75 - Going to baseURL http://store.23andme.com/en-us/
+2017-05-18 18:23:53 INFO  BasicAutoTest:105 - Closing all driver windows.
+2017-05-18 18:28:20 INFO  BasicAutoTest:69 - Setting up Firefox driver.
+2017-05-18 18:28:25 INFO  BasicAutoTest:75 - Going to baseURL http://store.23andme.com/en-us/
+2017-05-18 18:29:02 INFO  BasicAutoTest:105 - Closing all driver windows.
+2017-05-18 18:39:50 INFO  BasicAutoTest:69 - Setting up Firefox driver.
+2017-05-18 18:40:00 INFO  BasicAutoTest:75 - Going to baseURL http://store.23andme.com/en-us/
+2017-05-18 18:40:38 INFO  BasicAutoTest:105 - Closing all driver windows.
+2017-05-18 18:51:05 INFO  BasicAutoTest:69 - Setting up Firefox driver.
+2017-05-18 18:51:11 INFO  BasicAutoTest:75 - Going to baseURL http://store.23andme.com/en-us/
+2017-05-18 18:51:26 INFO  BasicAutoTest:105 - Closing all driver windows.
+2017-05-18 18:53:15 INFO  BasicAutoTest:69 - Setting up Firefox driver.
+2017-05-18 18:53:20 INFO  BasicAutoTest:75 - Going to baseURL http://store.23andme.com/en-us/
+2017-05-18 18:53:57 INFO  BasicAutoTest:105 - Closing all driver windows.
+2017-05-18 18:57:23 INFO  BasicAutoTest:69 - Setting up Firefox driver.
+2017-05-18 18:57:33 INFO  BasicAutoTest:75 - Going to baseURL http://store.23andme.com/en-us/
+2017-05-18 18:58:10 INFO  BasicAutoTest:105 - Closing all driver windows.
+2017-05-18 19:02:56 INFO  BasicAutoTest:69 - Setting up Firefox driver.
+2017-05-18 19:03:02 INFO  BasicAutoTest:75 - Going to baseURL http://store.23andme.com/en-us/
+2017-05-18 19:03:38 INFO  BasicAutoTest:105 - Closing all driver windows.
+2017-05-18 19:05:10 INFO  BasicAutoTest:69 - Setting up Firefox driver.
+2017-05-18 19:05:21 INFO  BasicAutoTest:75 - Going to baseURL http://store.23andme.com/en-us/
+2017-05-18 19:05:57 INFO  BasicAutoTest:105 - Closing all driver windows.
+2017-05-18 19:10:38 INFO  BasicAutoTest:69 - Setting up Firefox driver.
+2017-05-18 19:10:43 INFO  BasicAutoTest:75 - Going to baseURL http://store.23andme.com/en-us/
+2017-05-18 19:11:20 INFO  BasicAutoTest:105 - Closing all driver windows.
+2017-05-18 19:18:31 INFO  BasicAutoTest:52 - Setting Chrome driver system property.
+2017-05-18 19:18:31 INFO  BasicAutoTest:54 - Setting up Chrome driver.
+2017-05-18 19:22:43 INFO  BasicAutoTest:69 - Setting up Firefox driver.
+2017-05-18 19:22:53 INFO  BasicAutoTest:75 - Going to baseURL http://store.23andme.com/en-us/
+2017-05-18 19:23:30 INFO  BasicAutoTest:105 - Closing all driver windows.
+2017-05-18 19:31:56 INFO  BasicAutoTest:69 - Setting up Firefox driver.
+2017-05-18 19:32:02 INFO  BasicAutoTest:75 - Going to baseURL http://store.23andme.com/en-us/
+2017-05-18 19:32:39 INFO  BasicAutoTest:105 - Closing all driver windows.
+2017-05-18 21:07:24 INFO  BasicAutoTest:69 - Setting up Firefox driver.
+2017-05-18 21:07:30 INFO  BasicAutoTest:75 - Going to baseURL http://store.23andme.com/en-us/
+2017-05-18 21:08:07 INFO  BasicAutoTest:105 - Closing all driver windows.
+2017-05-18 21:10:36 INFO  BasicAutoTest:69 - Setting up Firefox driver.
+2017-05-18 21:10:47 INFO  BasicAutoTest:75 - Going to baseURL http://store.23andme.com/en-us/
+2017-05-18 21:11:24 INFO  BasicAutoTest:105 - Closing all driver windows.
+2017-05-18 21:15:32 INFO  BasicAutoTest:69 - Setting up Firefox driver.
+2017-05-18 21:15:38 INFO  BasicAutoTest:75 - Going to baseURL http://store.23andme.com/en-us/
+2017-05-18 21:16:15 INFO  BasicAutoTest:105 - Closing all driver windows.
+2017-05-18 21:31:02 INFO  BasicAutoTest:69 - Setting up Firefox driver.
+2017-05-18 21:31:07 INFO  BasicAutoTest:75 - Going to baseURL http://store.23andme.com/en-us/
+2017-05-18 21:31:45 INFO  BasicAutoTest:105 - Closing all driver windows.
+2017-05-18 21:38:31 INFO  BasicAutoTest:69 - Setting up Firefox driver.
+2017-05-18 21:38:37 INFO  BasicAutoTest:75 - Going to baseURL http://store.23andme.com/en-us/
+2017-05-18 21:39:14 INFO  BasicAutoTest:105 - Closing all driver windows.
+2017-05-18 21:40:38 INFO  BasicAutoTest:69 - Setting up Firefox driver.
+2017-05-18 21:40:49 INFO  BasicAutoTest:75 - Going to baseURL http://store.23andme.com/en-us/
+2017-05-18 21:41:26 INFO  BasicAutoTest:105 - Closing all driver windows.
+2017-05-18 22:55:55 INFO  BasicAutoTest:69 - Setting up Firefox driver.
+2017-05-18 22:56:00 INFO  BasicAutoTest:75 - Going to baseURL http://store.23andme.com/en-us/
+2017-05-18 22:56:38 INFO  BasicAutoTest:105 - Closing all driver windows.
+2017-05-18 23:00:56 INFO  BasicAutoTest:69 - Setting up Firefox driver.
+2017-05-18 23:01:01 INFO  BasicAutoTest:75 - Going to baseURL http://store.23andme.com/en-us/
+2017-05-18 23:01:38 INFO  BasicAutoTest:105 - Closing all driver windows.
+2017-05-18 23:17:08 INFO  BasicAutoTest:69 - Setting up Firefox driver.
+2017-05-18 23:17:14 INFO  BasicAutoTest:75 - Going to baseURL http://store.23andme.com/en-us/
+2017-05-18 23:17:52 INFO  BasicAutoTest:105 - Closing all driver windows.
+2017-05-18 23:25:38 INFO  BasicAutoTest:69 - Setting up Firefox driver.
+2017-05-18 23:25:43 INFO  BasicAutoTest:75 - Going to baseURL http://store.23andme.com/en-us/
+2017-05-18 23:26:20 INFO  BasicAutoTest:105 - Closing all driver windows.
+2017-05-18 23:29:11 INFO  BasicAutoTest:69 - Setting up Firefox driver.
+2017-05-18 23:29:22 INFO  BasicAutoTest:75 - Going to baseURL http://store.23andme.com/en-us/
+2017-05-18 23:29:58 INFO  BasicAutoTest:105 - Closing all driver windows.
+2017-05-18 23:39:29 INFO  BasicAutoTest:69 - Setting up Firefox driver.
+2017-05-18 23:39:35 INFO  BasicAutoTest:75 - Going to baseURL http://store.23andme.com/en-us/
+2017-05-18 23:40:12 INFO  BasicAutoTest:105 - Closing all driver windows.
+2017-05-18 23:43:15 INFO  BasicAutoTest:69 - Setting up Firefox driver.
+2017-05-18 23:43:21 INFO  BasicAutoTest:75 - Going to baseURL http://store.23andme.com/en-us/
+2017-05-18 23:43:57 INFO  BasicAutoTest:105 - Closing all driver windows.
+2017-05-18 23:45:24 INFO  BasicAutoTest:69 - Setting up Firefox driver.
+2017-05-18 23:45:30 INFO  BasicAutoTest:75 - Going to baseURL http://store.23andme.com/en-us/
+2017-05-18 23:46:07 INFO  BasicAutoTest:105 - Closing all driver windows.
+2017-05-19 00:05:41 INFO  BasicAutoTest:69 - Setting up Firefox driver.
+2017-05-19 00:05:47 INFO  BasicAutoTest:75 - Going to baseURL http://store.23andme.com/en-us/
+2017-05-19 00:06:24 INFO  BasicAutoTest:105 - Closing all driver windows.
+2017-05-19 00:10:00 INFO  BasicAutoTest:69 - Setting up Firefox driver.
+2017-05-19 00:10:07 INFO  BasicAutoTest:75 - Going to baseURL http://store.23andme.com/en-us/
+2017-05-19 00:10:26 INFO  BasicAutoTest:105 - Closing all driver windows.
+2017-05-19 00:12:59 INFO  BasicAutoTest:69 - Setting up Firefox driver.
+2017-05-19 00:13:05 INFO  BasicAutoTest:75 - Going to baseURL http://store.23andme.com/en-us/
+2017-05-19 00:13:24 INFO  BasicAutoTest:105 - Closing all driver windows.
+2017-05-19 00:13:38 INFO  BasicAutoTest:69 - Setting up Firefox driver.
+2017-05-19 00:13:44 INFO  BasicAutoTest:75 - Going to baseURL http://store.23andme.com/en-us/
+2017-05-19 00:14:20 INFO  BasicAutoTest:105 - Closing all driver windows.
+2017-05-19 00:16:04 INFO  BasicAutoTest:69 - Setting up Firefox driver.
+2017-05-19 00:16:09 INFO  BasicAutoTest:75 - Going to baseURL http://store.23andme.com/en-us/
+2017-05-19 00:16:46 INFO  BasicAutoTest:105 - Closing all driver windows.
+2017-05-19 00:32:47 INFO  BasicAutoTest:69 - Setting up Firefox driver.
+2017-05-19 00:32:53 INFO  BasicAutoTest:75 - Going to baseURL http://store.23andme.com/en-us/
+2017-05-19 00:33:30 INFO  BasicAutoTest:105 - Closing all driver windows.
+2017-05-19 00:34:59 INFO  BasicAutoTest:69 - Setting up Firefox driver.
+2017-05-19 00:35:05 INFO  BasicAutoTest:75 - Going to baseURL http://store.23andme.com/en-us/
+2017-05-19 00:35:42 INFO  BasicAutoTest:105 - Closing all driver windows.
+2017-05-19 00:37:22 INFO  BasicAutoTest:69 - Setting up Firefox driver.
+2017-05-19 00:37:32 INFO  BasicAutoTest:75 - Going to baseURL http://store.23andme.com/en-us/
+2017-05-19 00:38:11 INFO  BasicAutoTest:105 - Closing all driver windows.
+2017-05-19 00:43:17 INFO  BasicAutoTest:69 - Setting up Firefox driver.
+2017-05-19 00:43:22 INFO  BasicAutoTest:75 - Going to baseURL http://store.23andme.com/en-us/
+2017-05-19 00:44:08 INFO  BasicAutoTest:105 - Closing all driver windows.
+2017-05-19 00:45:14 INFO  BasicAutoTest:69 - Setting up Firefox driver.
+2017-05-19 00:45:18 INFO  BasicAutoTest:75 - Going to baseURL http://store.23andme.com/en-us/
+2017-05-19 00:45:54 INFO  BasicAutoTest:105 - Closing all driver windows.
+2017-05-19 00:48:28 INFO  BasicAutoTest:69 - Setting up Firefox driver.
+2017-05-19 00:48:33 INFO  BasicAutoTest:75 - Going to baseURL http://store.23andme.com/en-us/
+2017-05-19 00:49:09 INFO  BasicAutoTest:105 - Closing all driver windows.
+2017-05-19 00:49:12 INFO  BasicAutoTest:69 - Setting up Firefox driver.
+2017-05-19 00:49:22 INFO  BasicAutoTest:75 - Going to baseURL http://store.23andme.com/en-us/
+2017-05-19 00:49:35 INFO  BasicAutoTest:105 - Closing all driver windows.
+2017-05-19 00:49:47 INFO  BasicAutoTest:69 - Setting up Firefox driver.
+2017-05-19 00:49:51 INFO  BasicAutoTest:75 - Going to baseURL http://sfbay.craigslist.org
+2017-05-19 00:49:59 INFO  BasicAutoTest:50 - Number of results on first page for qa automation: 43
+2017-05-19 00:49:59 INFO  BasicAutoTest:105 - Closing all driver windows.
+2017-05-19 00:50:11 INFO  BasicAutoTest:69 - Setting up Firefox driver.
+2017-05-19 00:50:15 INFO  BasicAutoTest:75 - Going to baseURL http://sfbay.craigslist.org
+2017-05-19 00:50:22 INFO  BasicAutoTest:50 - Number of results on first page for qa automation: 43
+2017-05-19 00:50:22 INFO  BasicAutoTest:105 - Closing all driver windows.
+2017-05-19 00:51:29 INFO  BasicAutoTest:69 - Setting up Firefox driver.
+2017-05-19 00:51:33 INFO  BasicAutoTest:75 - Going to baseURL http://store.23andme.com/en-us/
+2017-05-19 00:52:09 INFO  BasicAutoTest:105 - Closing all driver windows.
+2017-05-19 00:56:14 INFO  BasicAutoTest:69 - Setting up Firefox driver.
+2017-05-19 00:56:20 INFO  BasicAutoTest:75 - Going to baseURL http://store.23andme.com/en-us/
+2017-05-19 00:56:56 INFO  BasicAutoTest:105 - Closing all driver windows.
+2017-05-19 00:58:49 INFO  BasicAutoTest:69 - Setting up Firefox driver.
+2017-05-19 00:58:53 INFO  BasicAutoTest:75 - Going to baseURL http://store.23andme.com/en-us/
+2017-05-19 00:59:30 INFO  BasicAutoTest:105 - Closing all driver windows.
+2017-05-19 01:01:24 INFO  BasicAutoTest:69 - Setting up Firefox driver.
+2017-05-19 01:01:34 INFO  BasicAutoTest:75 - Going to baseURL http://store.23andme.com/en-us/
+2017-05-19 01:02:11 INFO  BasicAutoTest:105 - Closing all driver windows.
+2017-05-19 01:04:17 INFO  BasicAutoTest:69 - Setting up Firefox driver.
+2017-05-19 01:04:22 INFO  BasicAutoTest:75 - Going to baseURL http://store.23andme.com/en-us/
+2017-05-19 01:04:59 INFO  BasicAutoTest:105 - Closing all driver windows.
+2017-05-19 01:07:09 INFO  BasicAutoTest:69 - Setting up Firefox driver.
+2017-05-19 01:07:19 INFO  BasicAutoTest:75 - Going to baseURL http://store.23andme.com/en-us/
+2017-05-19 01:07:57 INFO  BasicAutoTest:105 - Closing all driver windows.
+2017-05-19 01:12:23 INFO  BasicAutoTest:69 - Setting up Firefox driver.
+2017-05-19 01:12:33 INFO  BasicAutoTest:75 - Going to baseURL http://store.23andme.com/en-us/
+2017-05-19 01:13:10 INFO  BasicAutoTest:105 - Closing all driver windows.
+2017-05-19 01:15:31 INFO  BasicAutoTest:69 - Setting up Firefox driver.
+2017-05-19 01:15:42 INFO  BasicAutoTest:75 - Going to baseURL http://store.23andme.com/en-us/
+2017-05-19 01:16:18 INFO  BasicAutoTest:105 - Closing all driver windows.
+2017-05-19 01:43:08 INFO  BasicAutoTest:69 - Setting up Firefox driver.
+2017-05-19 01:43:14 INFO  BasicAutoTest:75 - Going to baseURL http://store.23andme.com/en-us/
+2017-05-19 01:43:50 INFO  BasicAutoTest:105 - Closing all driver windows.
+2017-05-19 01:45:24 INFO  BasicAutoTest:69 - Setting up Firefox driver.
+2017-05-19 01:45:30 INFO  BasicAutoTest:75 - Going to baseURL http://store.23andme.com/en-us/
+2017-05-19 01:46:07 INFO  BasicAutoTest:105 - Closing all driver windows.
+2017-05-19 01:56:13 INFO  BasicAutoTest:69 - Setting up Firefox driver.
+2017-05-19 01:56:24 INFO  BasicAutoTest:75 - Going to baseURL http://store.23andme.com/en-us/
+2017-05-19 01:56:30 INFO  BasicAutoTest:105 - Closing all driver windows.
+2017-05-19 13:37:56 INFO  BasicAutoTest:69 - Setting up Firefox driver.
+2017-05-19 13:38:02 INFO  BasicAutoTest:75 - Going to baseURL http://store.23andme.com/en-us/
+2017-05-19 13:38:39 INFO  BasicAutoTest:105 - Closing all driver windows.
+2017-05-19 14:19:36 INFO  BasicAutoTest:69 - Setting up Firefox driver.
+2017-05-19 14:19:40 INFO  BasicAutoTest:75 - Going to baseURL http://store.23andme.com/en-us/
+2017-05-19 14:20:17 INFO  BasicAutoTest:105 - Closing all driver windows.
+2017-05-19 22:32:25 INFO  BasicAutoTest:69 - Setting up Firefox driver.
+2017-05-19 22:32:36 INFO  BasicAutoTest:75 - Going to baseURL http://store.23andme.com/en-us/
+2017-05-19 22:33:12 INFO  BasicAutoTest:105 - Closing all driver windows.
+2017-05-19 22:38:48 INFO  BasicAutoTest:69 - Setting up Firefox driver.
+2017-05-19 22:38:57 INFO  BasicAutoTest:75 - Going to baseURL http://store.23andme.com/en-us/
+2017-05-19 22:39:34 INFO  BasicAutoTest:105 - Closing all driver windows.
+2017-05-19 22:40:02 INFO  BasicAutoTest:69 - Setting up Firefox driver.
+2017-05-19 22:40:11 INFO  BasicAutoTest:75 - Going to baseURL http://store.23andme.com/en-us/
+2017-05-19 22:40:48 INFO  BasicAutoTest:105 - Closing all driver windows.
+2017-05-20 16:08:33 INFO  BasicAutoTest:69 - Setting up Firefox driver.
+2017-05-20 16:08:38 INFO  BasicAutoTest:75 - Going to baseURL http://store.23andme.com/en-us/
+2017-05-20 16:09:17 INFO  BasicAutoTest:105 - Closing all driver windows.
+2017-05-20 16:10:31 INFO  BasicAutoTest:69 - Setting up Firefox driver.
+2017-05-20 16:10:35 INFO  BasicAutoTest:75 - Going to baseURL http://store.23andme.com/en-us/
+2017-05-20 16:11:20 INFO  BasicAutoTest:105 - Closing all driver windows.
+2017-05-20 16:16:59 INFO  BasicAutoTest:69 - Setting up Firefox driver.
+2017-05-20 16:17:08 INFO  BasicAutoTest:75 - Going to baseURL http://store.23andme.com/en-us/
+2017-05-20 16:17:23 INFO  BasicAutoTest:105 - Closing all driver windows.
+2017-05-20 16:25:40 INFO  BasicAutoTest:69 - Setting up Firefox driver.
+2017-05-20 16:25:45 INFO  BasicAutoTest:75 - Going to baseURL http://store.23andme.com/en-us/
+2017-05-20 16:26:30 INFO  BasicAutoTest:105 - Closing all driver windows.
+2017-05-20 16:29:38 INFO  BasicAutoTest:69 - Setting up Firefox driver.
+2017-05-20 16:29:42 INFO  BasicAutoTest:75 - Going to baseURL http://store.23andme.com/en-us/
+2017-05-20 16:30:27 INFO  BasicAutoTest:105 - Closing all driver windows.
+2017-05-20 16:46:23 INFO  BasicAutoTest:69 - Setting up Firefox driver.
+2017-05-20 16:46:27 INFO  BasicAutoTest:75 - Going to baseURL http://store.23andme.com/en-us/
+2017-05-20 16:46:42 INFO  BasicAutoTest:105 - Closing all driver windows.
+2017-05-20 16:49:53 INFO  BasicAutoTest:69 - Setting up Firefox driver.
+2017-05-20 16:49:57 INFO  BasicAutoTest:75 - Going to baseURL http://store.23andme.com/en-us/
+2017-05-20 16:50:12 INFO  BasicAutoTest:105 - Closing all driver windows.
+2017-05-20 16:52:56 INFO  BasicAutoTest:69 - Setting up Firefox driver.
+2017-05-20 16:53:00 INFO  BasicAutoTest:75 - Going to baseURL http://store.23andme.com/en-us/
+2017-05-20 16:53:16 INFO  BasicAutoTest:105 - Closing all driver windows.
+2017-05-20 16:55:55 INFO  BasicAutoTest:69 - Setting up Firefox driver.
+2017-05-20 16:55:59 INFO  BasicAutoTest:75 - Going to baseURL http://store.23andme.com/en-us/
+2017-05-20 16:56:08 INFO  BasicAutoTest:105 - Closing all driver windows.
+2017-05-20 16:58:44 INFO  BasicAutoTest:69 - Setting up Firefox driver.
+2017-05-20 16:58:48 INFO  BasicAutoTest:75 - Going to baseURL http://store.23andme.com/en-us/
+2017-05-20 16:59:13 INFO  BasicAutoTest:105 - Closing all driver windows.
+2017-05-20 17:00:46 INFO  BasicAutoTest:69 - Setting up Firefox driver.
+2017-05-20 17:00:55 INFO  BasicAutoTest:75 - Going to baseURL http://store.23andme.com/en-us/
+2017-05-20 17:01:05 INFO  BasicAutoTest:105 - Closing all driver windows.
+2017-05-20 17:01:50 INFO  BasicAutoTest:69 - Setting up Firefox driver.
+2017-05-20 17:01:54 INFO  BasicAutoTest:75 - Going to baseURL http://store.23andme.com/en-us/
+2017-05-20 17:02:03 INFO  BasicAutoTest:105 - Closing all driver windows.
+2017-05-20 17:10:28 INFO  BasicAutoTest:69 - Setting up Firefox driver.
+2017-05-20 17:10:32 INFO  BasicAutoTest:75 - Going to baseURL http://store.23andme.com/en-us/
+2017-05-20 17:11:12 INFO  BasicAutoTest:105 - Closing all driver windows.
+2017-05-20 17:15:02 INFO  BasicAutoTest:69 - Setting up Firefox driver.
+2017-05-20 17:15:11 INFO  BasicAutoTest:75 - Going to baseURL http://store.23andme.com/en-us/
+2017-05-20 17:15:50 INFO  BasicAutoTest:105 - Closing all driver windows.
+2017-05-20 17:23:26 INFO  BasicAutoTest:69 - Setting up Firefox driver.
+2017-05-20 17:23:31 INFO  BasicAutoTest:75 - Going to baseURL http://store.23andme.com/en-us/
+2017-05-20 17:23:39 INFO  BasicAutoTest:105 - Closing all driver windows.
+2017-05-20 17:25:01 INFO  BasicAutoTest:69 - Setting up Firefox driver.
+2017-05-20 17:25:10 INFO  BasicAutoTest:75 - Going to baseURL http://store.23andme.com/en-us/
+2017-05-20 17:25:22 INFO  BasicAutoTest:105 - Closing all driver windows.
+2017-05-20 17:30:53 INFO  BasicAutoTest:69 - Setting up Firefox driver.
+2017-05-20 17:31:03 INFO  BasicAutoTest:75 - Going to baseURL http://store.23andme.com/en-us/
+2017-05-20 17:31:11 INFO  BasicAutoTest:105 - Closing all driver windows.
+2017-05-20 17:32:28 INFO  BasicAutoTest:69 - Setting up Firefox driver.
+2017-05-20 17:32:37 INFO  BasicAutoTest:75 - Going to baseURL http://store.23andme.com/en-us/
+2017-05-20 17:32:48 INFO  BasicAutoTest:105 - Closing all driver windows.
+2017-05-20 17:33:37 INFO  BasicAutoTest:69 - Setting up Firefox driver.
+2017-05-20 17:33:41 INFO  BasicAutoTest:75 - Going to baseURL http://store.23andme.com/en-us/
+2017-05-20 17:33:50 INFO  BasicAutoTest:105 - Closing all driver windows.
+2017-05-20 17:34:23 INFO  BasicAutoTest:69 - Setting up Firefox driver.
+2017-05-20 17:34:27 INFO  BasicAutoTest:75 - Going to baseURL http://store.23andme.com/en-us/
+2017-05-20 17:34:38 INFO  BasicAutoTest:105 - Closing all driver windows.
+2017-05-20 17:43:55 INFO  BasicAutoTest:69 - Setting up Firefox driver.
+2017-05-20 17:44:00 INFO  BasicAutoTest:75 - Going to baseURL http://store.23andme.com/en-us/
+2017-05-20 17:44:09 INFO  BasicAutoTest:105 - Closing all driver windows.
+2017-05-20 17:48:13 INFO  BasicAutoTest:69 - Setting up Firefox driver.
+2017-05-20 17:48:22 INFO  BasicAutoTest:75 - Going to baseURL http://store.23andme.com/en-us/
+2017-05-20 17:48:32 INFO  BasicAutoTest:105 - Closing all driver windows.
+2017-05-20 17:59:25 INFO  BasicAutoTest:69 - Setting up Firefox driver.
+2017-05-20 17:59:29 INFO  BasicAutoTest:75 - Going to baseURL http://store.23andme.com/en-us/
+2017-05-20 18:00:11 INFO  BasicAutoTest:105 - Closing all driver windows.
+2017-05-20 18:14:41 INFO  BasicAutoTest:69 - Setting up Firefox driver.
+2017-05-20 18:14:50 INFO  BasicAutoTest:75 - Going to baseURL http://store.23andme.com/en-us/
+2017-05-20 18:15:34 INFO  BasicAutoTest:105 - Closing all driver windows.
+2017-05-20 18:52:47 INFO  BasicAutoTest:69 - Setting up Firefox driver.
+2017-05-20 18:52:52 INFO  BasicAutoTest:75 - Going to baseURL http://store.23andme.com/en-us/
+2017-05-20 18:53:04 INFO  BasicAutoTest:105 - Closing all driver windows.
+2017-05-20 18:55:31 INFO  BasicAutoTest:69 - Setting up Firefox driver.
+2017-05-20 18:55:35 INFO  BasicAutoTest:75 - Going to baseURL http://store.23andme.com/en-us/
+2017-05-20 18:56:17 INFO  BasicAutoTest:105 - Closing all driver windows.
+2017-05-20 19:05:04 INFO  BasicAutoTest:69 - Setting up Firefox driver.
+2017-05-20 19:05:08 INFO  BasicAutoTest:75 - Going to baseURL http://store.23andme.com/en-us/
+2017-05-20 19:05:49 INFO  BasicAutoTest:105 - Closing all driver windows.
+2017-05-20 19:16:59 INFO  BasicAutoTest:69 - Setting up Firefox driver.
+2017-05-20 19:17:08 INFO  BasicAutoTest:75 - Going to baseURL http://store.23andme.com/en-us/
+2017-05-20 19:17:48 INFO  BasicAutoTest:105 - Closing all driver windows.
+2017-05-20 19:18:55 INFO  BasicAutoTest:69 - Setting up Firefox driver.
+2017-05-20 19:18:59 INFO  BasicAutoTest:75 - Going to baseURL http://store.23andme.com/en-us/
+2017-05-20 19:19:12 INFO  BasicAutoTest:105 - Closing all driver windows.
+2017-05-20 19:19:23 INFO  BasicAutoTest:69 - Setting up Firefox driver.
+2017-05-20 19:19:32 INFO  BasicAutoTest:75 - Going to baseURL http://store.23andme.com/en-us/
+2017-05-20 19:19:45 INFO  BasicAutoTest:105 - Closing all driver windows.
+2017-05-21 13:19:02 INFO  BasicAutoTest:69 - Setting up Firefox driver.
+2017-05-21 13:19:07 INFO  BasicAutoTest:75 - Going to baseURL http://store.23andme.com/en-us/
+2017-05-21 13:19:23 INFO  BasicAutoTest:105 - Closing all driver windows.
+2017-05-21 13:20:50 INFO  BasicAutoTest:69 - Setting up Firefox driver.
+2017-05-21 13:21:00 INFO  BasicAutoTest:75 - Going to baseURL http://store.23andme.com/en-us/
+2017-05-21 13:21:15 INFO  BasicAutoTest:105 - Closing all driver windows.
+2017-05-21 14:07:08 INFO  BasicAutoTest:69 - Setting up Firefox driver.
+2017-05-21 14:07:15 INFO  BasicAutoTest:75 - Going to baseURL http://store.23andme.com/en-us/
+2017-05-21 14:07:22 INFO  BasicAutoTest:44 - Landed to the order page
+2017-05-21 14:07:27 INFO  BasicAutoTest:71 - Added 2 Ancestry kits with names
+2017-05-21 14:07:34 INFO  BasicAutoTest:83 - Landed to the Shipping page.
+2017-05-21 14:07:34 INFO  BasicAutoTest:105 - Closing all driver windows.
+2017-05-21 14:08:50 INFO  BasicAutoTest:69 - Setting up Firefox driver.
+2017-05-21 14:08:56 INFO  BasicAutoTest:75 - Going to baseURL http://store.23andme.com/en-us/
+2017-05-21 14:09:03 INFO  BasicAutoTest:45 - Landed to the order page
+2017-05-21 14:09:08 INFO  BasicAutoTest:72 - Added 2 Ancestry kits with names
+2017-05-21 14:09:15 INFO  BasicAutoTest:84 - Landed to the Shipping page.
+2017-05-21 14:09:48 INFO  BasicAutoTest:105 - Closing all driver windows.
+2017-05-21 14:22:21 INFO  BasicAutoTest:69 - Setting up Firefox driver.
+2017-05-21 14:22:26 INFO  BasicAutoTest:75 - Going to baseURL http://store.23andme.com/en-us/
+2017-05-21 14:22:33 INFO  BasicAutoTest:45 - Landed to the order page
+2017-05-21 14:22:38 INFO  BasicAutoTest:72 - Added 2 Ancestry kits with names
+2017-05-21 14:22:44 INFO  BasicAutoTest:84 - Landed to the Shipping page.
+2017-05-21 14:23:17 INFO  BasicAutoTest:105 - Closing all driver windows.
+2017-05-21 14:26:45 INFO  BasicAutoTest:69 - Setting up Firefox driver.
+2017-05-21 14:26:50 INFO  BasicAutoTest:75 - Going to baseURL http://store.23andme.com/en-us/
+2017-05-21 14:26:57 INFO  BasicAutoTest:45 - Landed to the order page
+2017-05-21 14:27:02 INFO  BasicAutoTest:72 - Added 2 Ancestry kits with names
+2017-05-21 14:27:07 INFO  BasicAutoTest:85 - Landed to the Shipping page.
+2017-05-21 14:27:23 INFO  BasicAutoTest:123 - Assert error:java.lang.AssertionError: expected [test test 
+ 123 A st 
+ mountain view, CA 94532 
+ US] but found [test test
+123 A st
+mountain view, CA 94532
+US]
+2017-05-21 14:27:23 INFO  BasicAutoTest:105 - Closing all driver windows.
+2017-05-21 14:28:02 INFO  BasicAutoTest:69 - Setting up Firefox driver.
+2017-05-21 14:28:08 INFO  BasicAutoTest:75 - Going to baseURL http://store.23andme.com/en-us/
+2017-05-21 14:28:15 INFO  BasicAutoTest:45 - Landed to the order page
+2017-05-21 14:28:20 INFO  BasicAutoTest:72 - Added 2 Ancestry kits with names
+2017-05-21 14:28:25 INFO  BasicAutoTest:85 - Landed to the Shipping page.
+2017-05-21 14:28:40 INFO  BasicAutoTest:123 - Assert error:java.lang.AssertionError: expected [test test 
+ 123 A st 
+ mountain view, CA 94532 
+ US] but found [test test
+123 A st
+mountain view, CA 94532
+US]
+2017-05-21 14:28:40 INFO  BasicAutoTest:105 - Closing all driver windows.
+2017-05-21 15:42:20 INFO  BasicAutoTest:69 - Setting up Firefox driver.
+2017-05-21 15:42:27 INFO  BasicAutoTest:75 - Going to baseURL http://store.23andme.com/en-us/
+2017-05-21 15:42:34 INFO  BasicAutoTest:45 - Landed to the order page
+2017-05-21 15:42:39 INFO  BasicAutoTest:72 - Added 2 Ancestry kits with names
+2017-05-21 15:42:45 INFO  BasicAutoTest:85 - Landed to the Shipping page.
+2017-05-21 15:43:26 INFO  BasicAutoTest:105 - Closing all driver windows.
+2017-05-21 15:43:49 INFO  BasicAutoTest:69 - Setting up Firefox driver.
+2017-05-21 15:43:56 INFO  BasicAutoTest:75 - Going to baseURL http://store.23andme.com/en-us/
+2017-05-21 15:44:08 INFO  BasicAutoTest:45 - Landed to the order page
+2017-05-21 15:44:13 INFO  BasicAutoTest:72 - Added 2 Ancestry kits with names
+2017-05-21 15:44:19 INFO  BasicAutoTest:85 - Landed to the Shipping page.
+2017-05-21 15:45:00 INFO  BasicAutoTest:105 - Closing all driver windows.
+2017-05-21 15:50:51 INFO  BasicAutoTest:69 - Setting up Firefox driver.
+2017-05-21 15:50:57 INFO  BasicAutoTest:75 - Going to baseURL http://store.23andme.com/en-us/
+2017-05-21 15:51:04 INFO  BasicAutoTest:45 - Landed to the order page
+2017-05-21 15:51:09 INFO  BasicAutoTest:72 - Added 2 Ancestry kits with names
+2017-05-21 15:51:14 INFO  BasicAutoTest:85 - Landed to the Shipping page.
+2017-05-21 15:51:31 INFO  BasicAutoTest:132 - Assert 'Unverified address' info :java.lang.AssertionError: expected [test test 
+ 123 A st 
+ mountain view, CA 94532 
+ US] but found [test test
+123 A st
+mountain view, CA 94532
+US]
+2017-05-21 15:51:31 INFO  BasicAutoTest:105 - Closing all driver windows.
+2017-05-22 01:43:03 INFO  BasicAutoTest:69 - Setting up Firefox driver.
+2017-05-22 01:43:11 INFO  BasicAutoTest:75 - Going to baseURL http://store.23andme.com/en-us/
+2017-05-22 01:43:16 INFO  BasicAutoTest:44 - Landed to the Order page
+2017-05-22 01:43:27 INFO  BasicAutoTest:95 - Added 5 Ancestry kits with names
+2017-05-22 01:43:31 INFO  BasicAutoTest:51 - Landed to the Shipping page.
+2017-05-22 01:44:04 INFO  BasicAutoTest:105 - Closing all driver windows.
+2017-05-22 01:47:49 INFO  BasicAutoTest:69 - Setting up Firefox driver.
+2017-05-22 01:47:55 INFO  BasicAutoTest:75 - Going to baseURL http://store.23andme.com/en-us/
+2017-05-22 01:47:59 INFO  BasicAutoTest:44 - Landed to the Order page
+2017-05-22 01:48:07 INFO  BasicAutoTest:95 - Added 5 Ancestry kits with names
+2017-05-22 01:48:12 INFO  BasicAutoTest:51 - Landed to the Shipping page.
+2017-05-22 01:48:45 INFO  BasicAutoTest:105 - Closing all driver windows.
+2017-05-22 01:56:34 INFO  BasicAutoTest:69 - Setting up Firefox driver.
+2017-05-22 01:56:40 INFO  BasicAutoTest:75 - Going to baseURL http://store.23andme.com/en-us/
+2017-05-22 01:56:44 INFO  BasicAutoTest:44 - Landed to the Order page
+2017-05-22 01:56:51 INFO  BasicAutoTest:95 - Added 5 Ancestry kits with names
+2017-05-22 01:56:57 INFO  BasicAutoTest:51 - Landed to the Shipping page.
+2017-05-22 01:57:30 INFO  BasicAutoTest:105 - Closing all driver windows.
+2017-05-22 02:01:36 INFO  BasicAutoTest:69 - Setting up Firefox driver.
+2017-05-22 02:01:42 INFO  BasicAutoTest:75 - Going to baseURL http://store.23andme.com/en-us/
+2017-05-22 02:01:47 INFO  BasicAutoTest:44 - Landed to the Order page
+2017-05-22 02:01:57 INFO  BasicAutoTest:95 - Added 5 Ancestry kits with names
+2017-05-22 02:02:02 INFO  BasicAutoTest:51 - Landed to the Shipping page.
+2017-05-22 02:02:35 INFO  BasicAutoTest:105 - Closing all driver windows.
+2017-05-22 02:12:17 INFO  BasicAutoTest:69 - Setting up Firefox driver.
+2017-05-22 02:12:27 INFO  BasicAutoTest:75 - Going to baseURL http://store.23andme.com/en-us/
+2017-05-22 02:12:41 INFO  BasicAutoTest:44 - Landed to the Order page
+2017-05-22 02:12:49 INFO  BasicAutoTest:95 - Added 5 Ancestry kits with names
+2017-05-22 02:12:54 INFO  BasicAutoTest:51 - Landed to the Shipping page.
+2017-05-22 02:13:07 INFO  BasicAutoTest:145 - Assert 'Unverified address' info :java.lang.AssertionError: expected [test test 
+123 A st 
+mountain view, California 94532 
+US] but found [test test
+123 A st
+mountain view, CA 94532
+US]
+2017-05-22 02:13:08 INFO  BasicAutoTest:105 - Closing all driver windows.
+2017-05-22 02:16:28 INFO  BasicAutoTest:69 - Setting up Firefox driver.
+2017-05-22 02:16:39 INFO  BasicAutoTest:75 - Going to baseURL http://store.23andme.com/en-us/
+2017-05-22 02:16:43 INFO  BasicAutoTest:44 - Landed to the Order page
+2017-05-22 02:16:53 INFO  BasicAutoTest:95 - Added 5 Ancestry kits with names
+2017-05-22 02:16:57 INFO  BasicAutoTest:51 - Landed to the Shipping page.
+2017-05-22 02:17:11 INFO  BasicAutoTest:145 - Assert 'Unverified address' info :java.lang.AssertionError: expected [test test 
+123 A st 
+mountain view, CA 94532 
+US] but found [test test
+123 A st
+mountain view, CA 94532
+US]
+2017-05-22 02:17:12 INFO  BasicAutoTest:105 - Closing all driver windows.
+2017-05-22 02:19:31 INFO  BasicAutoTest:69 - Setting up Firefox driver.
+2017-05-22 02:19:37 INFO  BasicAutoTest:75 - Going to baseURL http://store.23andme.com/en-us/
+2017-05-22 02:19:41 INFO  BasicAutoTest:44 - Landed to the Order page
+2017-05-22 02:19:49 INFO  BasicAutoTest:95 - Added 5 Ancestry kits with names
+2017-05-22 02:19:54 INFO  BasicAutoTest:51 - Landed to the Shipping page.
+2017-05-22 02:20:08 INFO  BasicAutoTest:145 - Assert 'Unverified address' info :java.lang.AssertionError: expected [test test 
+123 A st 
+mountain view, California 94532 
+US] but found [test test
+123 A st
+mountain view, CA 94532
+US]
+2017-05-22 02:20:08 INFO  BasicAutoTest:105 - Closing all driver windows.
+2017-05-22 02:21:27 INFO  BasicAutoTest:69 - Setting up Firefox driver.
+2017-05-22 02:21:33 INFO  BasicAutoTest:75 - Going to baseURL http://store.23andme.com/en-us/
+2017-05-22 02:21:38 INFO  BasicAutoTest:44 - Landed to the Order page
+2017-05-22 02:21:49 INFO  BasicAutoTest:95 - Added 5 Ancestry kits with names
+2017-05-22 02:21:53 INFO  BasicAutoTest:51 - Landed to the Shipping page.
+2017-05-22 02:22:56 INFO  BasicAutoTest:105 - Closing all driver windows.
+2017-05-22 02:23:05 INFO  BasicAutoTest:69 - Setting up Firefox driver.
+2017-05-22 02:23:16 INFO  BasicAutoTest:75 - Going to baseURL http://store.23andme.com/en-us/
+2017-05-22 02:23:21 INFO  BasicAutoTest:44 - Landed to the Order page
+2017-05-22 02:23:31 INFO  BasicAutoTest:95 - Added 5 Ancestry kits with names
+2017-05-22 02:23:35 INFO  BasicAutoTest:51 - Landed to the Shipping page.
+2017-05-22 02:23:49 INFO  BasicAutoTest:145 - Assert 'Unverified address' info :java.lang.AssertionError: expected [test test 
+123 A st 
+mountain view, California 94532 
+US] but found [test test
+123 A st
+mountain view, CA 94532
+US]
+2017-05-22 02:23:50 INFO  BasicAutoTest:105 - Closing all driver windows.
+2017-05-22 02:26:34 INFO  BasicAutoTest:69 - Setting up Firefox driver.
+2017-05-22 02:26:40 INFO  BasicAutoTest:75 - Going to baseURL http://store.23andme.com/en-us/
+2017-05-22 02:26:45 INFO  BasicAutoTest:44 - Landed to the Order page
+2017-05-22 02:26:53 INFO  BasicAutoTest:95 - Added 5 Ancestry kits with names
+2017-05-22 02:26:58 INFO  BasicAutoTest:51 - Landed to the Shipping page.
+2017-05-22 02:27:11 INFO  BasicAutoTest:145 - Assert 'Unverified address' info :java.lang.AssertionError: expected [test test 
+123 A st 
+mountain view, California 94532 
+US] but found [test test
+123 A st
+mountain view, CA 94532
+US]
+2017-05-22 02:27:12 INFO  BasicAutoTest:105 - Closing all driver windows.
+2017-05-22 02:29:37 INFO  BasicAutoTest:69 - Setting up Firefox driver.
+2017-05-22 02:29:43 INFO  BasicAutoTest:75 - Going to baseURL http://store.23andme.com/en-us/
+2017-05-22 02:29:48 INFO  BasicAutoTest:44 - Landed to the Order page
+2017-05-22 02:29:56 INFO  BasicAutoTest:95 - Added 5 Ancestry kits with names
+2017-05-22 02:30:00 INFO  BasicAutoTest:51 - Landed to the Shipping page.
+2017-05-22 02:30:14 INFO  BasicAutoTest:145 - Assert 'Unverified address' info :java.lang.AssertionError: expected [test test 
+123 A st 
+mountain view, California 94532 
+US] but found [test test
+123 A st
+mountain view, CA 94532
+US]
+2017-05-22 02:30:19 INFO  BasicAutoTest:105 - Closing all driver windows.
+2017-05-22 02:31:58 INFO  BasicAutoTest:69 - Setting up Firefox driver.
+2017-05-22 02:32:03 INFO  BasicAutoTest:75 - Going to baseURL http://store.23andme.com/en-us/
+2017-05-22 02:32:09 INFO  BasicAutoTest:44 - Landed to the Order page
+2017-05-22 02:32:17 INFO  BasicAutoTest:95 - Added 5 Ancestry kits with names
+2017-05-22 02:32:21 INFO  BasicAutoTest:51 - Landed to the Shipping page.
+2017-05-22 02:33:24 INFO  BasicAutoTest:105 - Closing all driver windows.
+2017-05-22 02:35:05 INFO  BasicAutoTest:69 - Setting up Firefox driver.
+2017-05-22 02:35:11 INFO  BasicAutoTest:75 - Going to baseURL http://store.23andme.com/en-us/
+2017-05-22 02:35:16 INFO  BasicAutoTest:44 - Landed to the Order page
+2017-05-22 02:35:30 INFO  BasicAutoTest:95 - Added 5 Ancestry kits with names
+2017-05-22 02:35:34 INFO  BasicAutoTest:51 - Landed to the Shipping page.
+2017-05-22 02:36:30 INFO  BasicAutoTest:105 - Closing all driver windows.
+2017-05-22 02:38:25 INFO  BasicAutoTest:69 - Setting up Firefox driver.
+2017-05-22 02:38:30 INFO  BasicAutoTest:75 - Going to baseURL http://store.23andme.com/en-us/
+2017-05-22 02:38:34 INFO  BasicAutoTest:44 - Landed to the Order page
+2017-05-22 02:38:43 INFO  BasicAutoTest:95 - Added 5 Ancestry kits with names
+2017-05-22 02:38:48 INFO  BasicAutoTest:51 - Landed to the Shipping page.
+2017-05-22 02:39:02 INFO  BasicAutoTest:145 - Assert 'Unverified address' info :java.lang.AssertionError: expected [test test 
+123 A st 
+mountain view, California 94532 
+US] but found [test test
+123 A st
+mountain view, CA 94532
+US]
+2017-05-22 02:39:15 INFO  BasicAutoTest:165 - Assert 'Order total': java.lang.AssertionError: expected [Order total: $495.0] but found [Order total: $524.95]
+2017-05-22 02:39:15 INFO  BasicAutoTest:105 - Closing all driver windows.
+2017-05-22 13:58:51 INFO  BasicAutoTest:59 - Setting up Firefox driver.
+2017-05-22 13:58:56 INFO  BasicAutoTest:65 - Going to baseURL http://store.23andme.com/en-us/
+2017-05-22 13:59:00 INFO  BasicAutoTest:44 - Landed to the Order page
+2017-05-22 13:59:08 INFO  BasicAutoTest:91 - Added 5 Ancestry kits with names
+2017-05-22 13:59:12 INFO  BasicAutoTest:51 - Landed to the Shipping page.
+2017-05-22 14:00:15 INFO  BasicAutoTest:95 - Closing all driver windows.
+2017-05-22 14:00:49 INFO  BasicAutoTest:59 - Setting up Firefox driver.
+2017-05-22 14:00:53 INFO  BasicAutoTest:65 - Going to baseURL http://store.23andme.com/en-us/
+2017-05-22 14:00:56 INFO  BasicAutoTest:44 - Landed to the Order page
+2017-05-22 14:01:03 INFO  BasicAutoTest:91 - Added 5 Ancestry kits with names
+2017-05-22 14:01:09 INFO  BasicAutoTest:51 - Landed to the Shipping page.
+2017-05-22 14:01:46 INFO  BasicAutoTest:95 - Closing all driver windows.
+2017-05-22 14:02:37 INFO  BasicAutoTest:59 - Setting up Firefox driver.
+2017-05-22 14:02:41 INFO  BasicAutoTest:65 - Going to baseURL http://store.23andme.com/en-us/
+2017-05-22 14:02:45 INFO  BasicAutoTest:44 - Landed to the Order page
+2017-05-22 14:02:52 INFO  BasicAutoTest:91 - Added 5 Ancestry kits with names
+2017-05-22 14:02:56 INFO  BasicAutoTest:51 - Landed to the Shipping page.
+2017-05-22 14:03:09 INFO  BasicAutoTest:143 - Assert 'Unverified address' info :java.lang.AssertionError: expected [test test 
+123 A st 
+mountain view, California 94532 
+US] but found [test test
+123 A st
+mountain view, CA 94532
+US]
+2017-05-22 14:03:13 INFO  BasicAutoTest:160 - Assert 'Order total': java.lang.AssertionError: expected [Order total: $495.0] but found [Order total: $524.95]
+2017-05-22 14:03:13 INFO  BasicAutoTest:95 - Closing all driver windows.
+2017-05-22 14:29:04 INFO  BasicAutoTest:59 - Setting up Firefox driver.
+2017-05-22 14:29:08 INFO  BasicAutoTest:65 - Going to baseURL http://store.23andme.com/en-us/
+2017-05-22 14:29:12 INFO  BasicAutoTest:44 - Landed to the Order page
+2017-05-22 14:29:20 INFO  BasicAutoTest:91 - Added 5 Ancestry kits with names
+2017-05-22 14:29:24 INFO  BasicAutoTest:51 - Landed to the Shipping page.
+2017-05-22 14:29:53 INFO  BasicAutoTest:95 - Closing all driver windows.
+2017-05-22 14:30:01 INFO  BasicAutoTest:59 - Setting up Firefox driver.
+2017-05-22 14:30:06 INFO  BasicAutoTest:65 - Going to baseURL http://store.23andme.com/en-us/
+2017-05-22 14:30:09 INFO  BasicAutoTest:44 - Landed to the Order page
+2017-05-22 14:30:16 INFO  BasicAutoTest:91 - Added 5 Ancestry kits with names
+2017-05-22 14:30:20 INFO  BasicAutoTest:51 - Landed to the Shipping page.
+2017-05-22 14:30:32 INFO  BasicAutoTest:143 - Assert 'Unverified address' info :java.lang.AssertionError: expected [test test 
+123 A st 
+mountain view, California 94532 
+US] but found [test test
+123 A st
+mountain view, CA 94532
+US]
+2017-05-22 14:30:37 INFO  BasicAutoTest:162 - Assert 'Order total': java.lang.AssertionError: expected [Order total: $495.0] but found [Order total: $524.95]
+2017-05-22 14:30:37 INFO  BasicAutoTest:95 - Closing all driver windows.
+2017-05-22 14:34:27 INFO  BasicAutoTest:59 - Setting up Firefox driver.
+2017-05-22 14:34:36 INFO  BasicAutoTest:65 - Going to baseURL http://store.23andme.com/en-us/
+2017-05-22 14:34:40 INFO  BasicAutoTest:44 - Landed to the Order page
+2017-05-22 14:34:47 INFO  BasicAutoTest:91 - Added 5 Ancestry kits with names
+2017-05-22 14:34:52 INFO  BasicAutoTest:51 - Landed to the Shipping page.
+2017-05-22 14:35:04 INFO  BasicAutoTest:143 - Assert 'Unverified address' info :java.lang.AssertionError: expected [test test 
+123 A st 
+mountain view, California 94532 
+US] but found [test test
+123 A st
+mountain view, CA 94532
+US]
+2017-05-22 14:35:09 INFO  BasicAutoTest:162 - Assert 'Order total': java.lang.AssertionError: expected [Order total: $495.0] but found [Order total: $524.95]
+2017-05-22 14:35:09 INFO  BasicAutoTest:95 - Closing all driver windows.
+2017-05-22 14:43:04 INFO  BasicAutoTest:59 - Setting up Firefox driver.
+2017-05-22 14:43:08 INFO  BasicAutoTest:65 - Going to baseURL http://store.23andme.com/en-us/
+2017-05-22 14:43:11 INFO  BasicAutoTest:44 - Landed to the Order page
+2017-05-22 14:43:19 INFO  BasicAutoTest:91 - Added 5 Ancestry kits with names
+2017-05-22 14:43:23 INFO  BasicAutoTest:51 - Landed to the Shipping page.
+2017-05-22 14:43:36 INFO  BasicAutoTest:143 - Assert 'Unverified address' info :java.lang.AssertionError: expected [test test 
+123 A st 
+mountain view, California 94532 
+US] but found [test test
+123 A st
+mountain view, CA 94532
+US]
+2017-05-22 14:43:41 INFO  BasicAutoTest:164 - Assert 'Order total': java.lang.AssertionError: expected [Order total: $495.0] but found [Order total: $524.95]
+2017-05-22 14:43:41 INFO  BasicAutoTest:95 - Closing all driver windows.
+2017-05-22 14:46:00 INFO  BasicAutoTest:59 - Setting up Firefox driver.
+2017-05-22 14:46:09 INFO  BasicAutoTest:65 - Going to baseURL http://store.23andme.com/en-us/
+2017-05-22 14:46:13 INFO  BasicAutoTest:44 - Landed to the Order page
+2017-05-22 14:46:20 INFO  BasicAutoTest:91 - Added 5 Ancestry kits with names
+2017-05-22 14:46:25 INFO  BasicAutoTest:51 - Landed to the Shipping page.
+2017-05-22 14:46:36 INFO  BasicAutoTest:143 - Assert 'Unverified address' info :java.lang.AssertionError: expected [test test 
+123 A st 
+mountain view, California 94532 
+US] but found [test test
+123 A st
+mountain view, CA 94532
+US]
+2017-05-22 14:46:40 INFO  BasicAutoTest:164 - Assert 'Order total': java.lang.AssertionError: expected [Order total: $495.0] but found [Order total: $524.95]
+2017-05-22 14:46:40 INFO  BasicAutoTest:95 - Closing all driver windows.
+2017-05-22 14:54:27 INFO  BasicAutoTest:59 - Setting up Firefox driver.
+2017-05-22 14:54:31 INFO  BasicAutoTest:65 - Going to baseURL http://store.23andme.com/en-us/
+2017-05-22 14:54:35 INFO  BasicAutoTest:46 - Landed to the Order page
+2017-05-22 14:54:42 INFO  BasicAutoTest:93 - Added 5 Ancestry kits with names
+2017-05-22 14:54:45 INFO  BasicAutoTest:53 - Landed to the Shipping page.
+2017-05-22 14:55:03 INFO  BasicAutoTest:95 - Closing all driver windows.
+2017-05-22 14:55:12 INFO  BasicAutoTest:59 - Setting up Firefox driver.
+2017-05-22 14:55:21 INFO  BasicAutoTest:65 - Going to baseURL http://store.23andme.com/en-us/
+2017-05-22 14:55:24 INFO  BasicAutoTest:46 - Landed to the Order page
+2017-05-22 14:55:31 INFO  BasicAutoTest:93 - Added 5 Ancestry kits with names
+2017-05-22 14:55:35 INFO  BasicAutoTest:53 - Landed to the Shipping page.
+2017-05-22 14:55:47 INFO  BasicAutoTest:146 - Assert 'Unverified address' info :java.lang.AssertionError: expected [test test 123 A st mountain view, California 94532 US] but found [test test 123 A st mountain view, CA 94532 US]
+2017-05-22 14:55:51 INFO  BasicAutoTest:166 - Assert 'Order total': java.lang.AssertionError: expected [Order total: $495.0] but found [Order total: $524.95]
+2017-05-22 14:55:51 INFO  BasicAutoTest:95 - Closing all driver windows.
+2017-05-22 15:01:54 INFO  BasicAutoTest:59 - Setting up Firefox driver.
+2017-05-22 15:01:58 INFO  BasicAutoTest:65 - Going to baseURL http://store.23andme.com/en-us/
+2017-05-22 15:02:04 INFO  BasicAutoTest:49 - Landed to the Order page
+2017-05-22 15:02:11 INFO  BasicAutoTest:96 - Added 5 Ancestry kits with names
+2017-05-22 15:02:15 INFO  BasicAutoTest:56 - Landed to the Shipping page.
+2017-05-22 15:02:24 INFO  BasicAutoTest:95 - Closing all driver windows.
+2017-05-22 15:02:42 INFO  BasicAutoTest:59 - Setting up Firefox driver.
+2017-05-22 15:02:46 INFO  BasicAutoTest:65 - Going to baseURL http://store.23andme.com/en-us/
+2017-05-22 15:02:50 INFO  BasicAutoTest:49 - Landed to the Order page
+2017-05-22 15:02:57 INFO  BasicAutoTest:96 - Added 5 Ancestry kits with names
+2017-05-22 15:03:01 INFO  BasicAutoTest:56 - Landed to the Shipping page.
+2017-05-22 15:03:14 INFO  BasicAutoTest:149 - Assert 'Unverified address' info :java.lang.AssertionError: expected [test test 123 A st mountain view, California 94532 US] but found [test test 123 A st mountain view, CA 94532 US]
+2017-05-22 15:03:18 INFO  BasicAutoTest:95 - Closing all driver windows.

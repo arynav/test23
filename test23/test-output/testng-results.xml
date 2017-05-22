@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="36427" started-at="2017-05-22T22:02:42Z" finished-at="2017-05-22T22:03:19Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="36427" started-at="2017-05-22T22:02:42Z" finished-at="2017-05-22T22:03:19Z">
+      <class name="com.jfbuilds.craigslist.For23andMe">
+        <test-method status="PASS" signature="setupFirefox()[pri:0, instance:com.jfbuilds.craigslist.For23andMe@4f25445a]" name="setupFirefox" is-config="true" duration-ms="7115" started-at="2017-05-22T15:02:42Z" finished-at="2017-05-22T15:02:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupFirefox -->
+        <test-method status="PASS" signature="test23andme()[pri:0, instance:com.jfbuilds.craigslist.For23andMe@4f25445a]" name="test23andme" duration-ms="28944" started-at="2017-05-22T15:02:49Z" finished-at="2017-05-22T15:03:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test23andme -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.jfbuilds.craigslist.For23andMe@4f25445a]" name="tearDown" is-config="true" duration-ms="343" started-at="2017-05-22T15:03:18Z" finished-at="2017-05-22T15:03:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.jfbuilds.craigslist.For23andMe -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
